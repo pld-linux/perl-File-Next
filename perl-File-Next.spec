@@ -30,7 +30,7 @@ lightweight, has no dependencies, runs under taint mode, and puts your
 program more directly in control of file selection.
 
 It's taken heavily from Mark Jason Dominus' excellent book "Higher
-Order Perl". http://hop.perl.plover.com/
+Order Perl" <http://hop.perl.plover.com/>.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
