@@ -7,13 +7,13 @@
 %define	pnam	Next
 Summary:	File::Next - File-finding iterator
 Name:		perl-File-Next
-Version:	1.12
+Version:	1.16
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	725e888d1600fed62cd89b9dac989304
+# Source0-md5:	103bc329cd2b64ec270ac53a7dacb378
 URL:		http://search.cpan.org/dist/File-Next/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
