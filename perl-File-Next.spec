@@ -7,7 +7,7 @@
 Summary:	File::Next - File-finding iterator
 Name:		perl-File-Next
 Version:	1.16
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
